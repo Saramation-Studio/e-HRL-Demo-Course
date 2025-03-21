@@ -1558,13 +1558,21 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6n0MBizcaUs.5kiUibtadyL" displaytext="Home Menu" expand="false" type="slide" />
-        <slidelink slideid="_player.6n0MBizcaUs.5ob4GqB3DZY" displaytext="Interaction Intro Clip" expand="false" type="slide" />
-        <slidelink slideid="_player.6n0MBizcaUs.6CFnIdgmfDJ" displaytext="Scorm Interaction" expand="false" type="slide" />
-        <slidelink slideid="_player.6n0MBizcaUs" displaytext="eHRL Traning" expand="true" type="slide">
+        <slidelink slideid="_player.6n0MBizcaUs.5kiUibtadyL" displaytext="Home Menu" expand="true" type="slide" />
+        <slidelink slideid="_player.6RQtRkYZZkL" displaytext="Safety and Security" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6n0MBizcaUs.5ob4GqB3DZY" displaytext="Interaction Intro Clip" expand="false" type="slide" />
+            <slidelink slideid="_player.6n0MBizcaUs.6CFnIdgmfDJ" displaytext="Scorm Interaction" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6QPAb8Cjobp" displaytext="HRLs Travel Requirements" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6n0MBizcaUs.61dkav3HDlR" displaytext="Interaction Intro Clip 2" expand="false" type="slide" />
             <slidelink slideid="_player.6n0MBizcaUs.6jgZ4ATspbL" displaytext="Scorm Interaction 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6n0MBizcaUs" displaytext="Emergency Contact and Resource" expand="true" type="slide">
+          <links>
             <slidelink slideid="_player.6n0MBizcaUs.6cEbSRsNciy" displaytext="Interaction Intro Clip 3" expand="false" type="slide" />
             <slidelink slideid="_player.6n0MBizcaUs.6SAh8azLGEU" displaytext="Prompt 1" expand="false" type="slide" />
             <slidelink slideid="_player.6n0MBizcaUs.61tmgwBgSRE" displaytext="Prompt 2" expand="false" type="slide" />
